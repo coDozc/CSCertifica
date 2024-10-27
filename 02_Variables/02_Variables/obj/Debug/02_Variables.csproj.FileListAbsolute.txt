@@ -1,0 +1,7 @@
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\02_Variables\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\02_Variables\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\02_Variables\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\02_Variables\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\02_Variables\02_Variables\obj\Debug\02_Variables.pdb
