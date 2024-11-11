@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\02_Variables",
-    "\\02_Variables\\02_Variables",
-    "\\03_MakingDecision"
+    "\\03_MakingDecision",
+    "\\04_Loop"
   ],
-  "SelectedNode": "\\02_Variables\\02_Variables\\Program.cs",
+  "SelectedNode": "\\03_MakingDecision\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

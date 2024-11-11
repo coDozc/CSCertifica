@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\ozcan\\OneDrive\\Masa\u00FCst\u00FC\\CSharp Sertifika\\02_Variables\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80F01F58-54E5-4A6E-ACE7-511FDB1D98CD}|..\\04_Loop\\04_Loop.csproj|c:\\users\\ozcan\\onedrive\\masa\u00FCst\u00FC\\csharp sertifika\\04_loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{070C7160-0C5D-4F1A-B7FD-4A9229356E46}|..\\03_MakingDecision\\03_MakingDecision.csproj|c:\\users\\ozcan\\onedrive\\masa\u00FCst\u00FC\\csharp sertifika\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,6 +25,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ozcan\\OneDrive\\Masa\u00FCst\u00FC\\CSharp Sertifika\\04_Loop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\04_Loop\\Program.cs",
+              "ToolTip": "C:\\Users\\ozcan\\OneDrive\\Masa\u00FCst\u00FC\\CSharp Sertifika\\04_Loop\\Program.cs",
+              "RelativeToolTip": "..\\04_Loop\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:19:15.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ozcan\\OneDrive\\Masa\u00FCst\u00FC\\CSharp Sertifika\\03_MakingDecision\\Program.cs",
               "RelativeDocumentMoniker": "..\\03_MakingDecision\\Program.cs",
