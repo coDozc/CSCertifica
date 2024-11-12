@@ -1,0 +1,7 @@
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\05_LoopProjects\bin\Debug\05_LoopProjects.exe.config
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\05_LoopProjects\bin\Debug\05_LoopProjects.exe
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\05_LoopProjects\bin\Debug\05_LoopProjects.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\05_LoopProjects\obj\Debug\05_LoopProjects.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\05_LoopProjects\obj\Debug\05_LoopProjects.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\05_LoopProjects\obj\Debug\05_LoopProjects.exe
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\05_LoopProjects\obj\Debug\05_LoopProjects.pdb
