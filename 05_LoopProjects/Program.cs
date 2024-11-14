@@ -89,7 +89,7 @@ namespace _05_LoopProjects
 
             #region ters piramit
             int n = 5;
-            for (int = n; i >= n; i--)
+            for (int i = n; i >= n; i--)
             {
                 for (int j = n - i; j > 0; j--)
                 {

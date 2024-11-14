@@ -1,0 +1,2 @@
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\05_LoopProjects\obj\Release\05_LoopProjects.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\05_LoopProjects\obj\Release\05_LoopProjects.csproj.CoreCompileInputs.cache
