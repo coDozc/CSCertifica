@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\02_Variables"
+    "\\02_Variables",
+    "\\07_ForeachLoop"
   ],
   "SelectedNode": "\\02_Variables\\CSharpCertificate.sln",
   "PreviewInSolutionExplorer": false
