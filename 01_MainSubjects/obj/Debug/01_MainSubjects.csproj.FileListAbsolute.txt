@@ -1,0 +1,7 @@
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\ozcan\OneDrive\Masaüstü\CSharp Sertifika\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
