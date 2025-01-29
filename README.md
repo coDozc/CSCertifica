@@ -18,3 +18,7 @@ Foreach döngüsünün kullanımını gösterip basit bir sınav bilgi sistemi o
 Metotlar, bir kodun daha temiz ve düzenli hale gelmesini sağlar. Bu uygulamada farklı değişken türlerinde hem geri değer gönderen hem de göndermeyen fonksiyonları kullandım.
 ## 🌟 Proje 9: Veri Tabanı Bağlantısı
 Bu çalışmada verileri el ile doldurulmuş MSSql veri tabanına c# dilinde nasıl bağlantı kurulacağını öğrendim.
+## 🌟 Proje 10: Tur Rehber Uygulaması
+![image](https://github.com/user-attachments/assets/3c2ec130-d0e5-49b2-bbb2-e819669c5b89)
+Bu çalışmada EntityFramework ve Microsoft Sql Server kullanarak database işlemlerini gerçekleştirdiğim bir tur rehberi uygulaması prototipi yaptım. Windows Form kullanarak uygulama arayüzünü oluşturdum.
+
